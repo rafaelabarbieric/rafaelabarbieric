@@ -1,4 +1,9 @@
-### Olá! Eu sou a Rafaela Barbieri
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A359F&height=120&section=header"/>
+<div>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2A359F&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Rafaela+Barbieri+Da+Cruz;Be+Welcome!)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
   <a href="https://github.com/rafaelabarbieric">
@@ -19,7 +24,7 @@
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelabarbieric&bg_color=141424&color=e63780&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/rafaelabarbieric/rafaelabarbieric)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelabarbieric&bg_color=141424&color=2A359F&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/rafaelabarbieric/rafaelabarbieric)
 
 <div style="display: inline_block width: 45%"  align="center"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
