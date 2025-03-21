@@ -1,7 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A359F&height=120&section=header"/>
-<div>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2A359F&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Rafaela+Barbieri+Da+Cruz;Be+Welcome!)](https://git.io/typing-svg)
+### Olá! Eu sou a Rafaela
 
 </div>
 
